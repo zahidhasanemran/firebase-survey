@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Survey App With Firebase and React
+
+This app crated for survey. where user has to put his/her name. then a set of questions will appears. user will answer the question and submit the answer. and the answers will sotred in firebase database. 
 
 ## Available Scripts
 
